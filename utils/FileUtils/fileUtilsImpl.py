@@ -1,6 +1,7 @@
 __author__ = 'bharadwaj'
 
 import os as osutils
+import shutil
 
 
 class FileUtilsImpl:
